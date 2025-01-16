@@ -1,7 +1,9 @@
+## Sobre mim
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-💼 Bem-vindo ao meu perfil no GitHub! Sou Tayná Goes.
+💼 Bem-vindo ao meu perfil no GitHub! Sou Tayná Goes. <br><br>
 Desenvolvedora web com experiência em criar interfaces
 intuitivas, aliando design e usabilidade para superar
 expectativas. Com sólida base em tecnologias web, busco
@@ -9,6 +11,7 @@ projetos inovadores que otimizem a interação do usuário,
 enquanto evoluo minhas habilidades e gero impacto em
 soluções digitais modernas.
 </p>
+<br><br><br><br><br>
 
 ## Minhas Skills
 
@@ -21,7 +24,7 @@ soluções digitais modernas.
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Php](https://img.shields.io/badge/-PHP-3776AB?style=flat&logo=php)
-![React](https://img.https://shields.io/badge/react-black?logo=react&style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 
 **DevOps**
