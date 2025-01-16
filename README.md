@@ -25,7 +25,7 @@ soluções digitais modernas.
 </p>
 
 </p>
-<br><br><br><br><br>
+<br><br>
 
 ## Minhas Skills
 
